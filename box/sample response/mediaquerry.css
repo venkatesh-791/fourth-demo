@@ -1,0 +1,11 @@
+.med-container{
+    background-color: orange;
+    
+}
+@media (max-width:768px){
+    .med-container{
+        background-color: green;
+
+    }
+}
+]
